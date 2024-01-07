@@ -1,0 +1,12 @@
+body {
+    background-color: #DCF2F1;
+}
+
+.header {
+	text-align: center;
+	background-color: #365486;
+	padding: 10px 10px 73px 10px;
+	margin: 80px 360px;
+	color: #DCF2F1;
+    font-size: 18px;
+}
